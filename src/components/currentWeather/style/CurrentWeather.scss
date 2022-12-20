@@ -33,10 +33,11 @@
     align-items: center;
     .temprature {
       font-weight: 600;
-      font-size: 70px;
+      font-size: 60px;
       width: auto;
       letter-spacing: -5px;
       margin: 10px 0;
+      word-wrap: nowrap
     }
     .details {
       width: 100%;
